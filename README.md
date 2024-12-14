@@ -1,4 +1,4 @@
-# project-demo
-this is my first Repository.<br>
-Coder-sameer Jain
-I am improving my coding skills
+# New Project
+
+this project was created from local system.
+created by sameer jain with some help
